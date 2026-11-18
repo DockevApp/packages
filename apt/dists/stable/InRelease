@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 18 Nov 2026 08:43:12 +0000
+Description: Dockev desktop app
+Label: Dockev
+Origin: Dockev
+Suite: stable
+MD5Sum:
+ b365665312160440bf77463523076b2c              862 main/binary-amd64/Packages
+ 0acfdea201769d02fdf07bc94c5edd17              461 main/binary-amd64/Packages.gz
+SHA1:
+ 943c648604b978e0a95d7d2d652dcdfc57fe351f              862 main/binary-amd64/Packages
+ 646ef0ef839de4cb62ff4aa0850bcbfdcebd2de2              461 main/binary-amd64/Packages.gz
+SHA256:
+ 15b7ba5dc84b488672d7c37dced8678af930dc4ca7340e68f4e74b9fea6d9d05              862 main/binary-amd64/Packages
+ 4e28ac48067ca725440d6626ee56c9164c9e346a5298b4e74194a529c5191513              461 main/binary-amd64/Packages.gz
+SHA512:
+ 92ca4b4603985ca9b2ae3164aac000dfb382531c309e788c601a0d720612556b2fd2d91627afb6b575bd1fac0d0fd366e7e5513c6ed343db37adbce074abcc26              862 main/binary-amd64/Packages
+ 9f812e5e6f1486140cdc6e78a189a2d5609d90d728aa45757eda22ffa76a02dec272ac3226e870747cadc417c6358c21528574f552c4232afb03a99d5bef32eb              461 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQR2PCOWVqNMyjCPecUh1xh+XW84fwUCav1lIAAKCRAh1xh+XW84
+f6t0AP4rWogef83g8575EQwzVmeg7eiIesnLCoLaqO7Y43WHjAEA4qGwiIS/F35o
+wX1/NFLmBbwffNWnO7m69UY7L5lxIQk=
+=s/LP
+-----END PGP SIGNATURE-----

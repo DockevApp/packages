@@ -1,0 +1,30 @@
+Package: dockev
+Version: 0.7.0
+Architecture: amd64
+Maintainer: you
+Installed-Size: 73678
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/d/dockev/dockev_0.7.0_amd64.deb
+Size: 23511398
+MD5sum: 154abc769d39d91b9ecbbc9f29b0102a
+SHA1: 06d13f8e1c23c441e1646770e38e0e692469ce0c
+SHA256: e003b4003f63ccde927e5a5924a7c83831e4599c7f6c87132d0879f2d870d9ad
+Priority: optional
+Description: Dockev - Docker Desktop Manager
+ (none)
+
+Package: dockev
+Version: 0.8.0
+Architecture: amd64
+Maintainer: you
+Installed-Size: 76139
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/d/dockev/dockev_0.8.0_amd64.deb
+Size: 24203904
+MD5sum: 6a448eecfd5ced5d7ae710bd45d4b735
+SHA1: d403742e666f99d9bb537b4e90d670d7ecae84ee
+SHA256: 75d1d919c4ece5aa51dd30b7481972aeb6f35cabae06d2469d5ff2cea4d70463
+Priority: optional
+Description: Dockev - Docker Desktop Manager
+ (none)
+

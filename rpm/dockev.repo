@@ -1,0 +1,7 @@
+[dockev]
+name=Dockev
+baseurl=https://dockevapp.github.io/packages/rpm/$basearch
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://dockevapp.github.io/packages/dockev.asc
